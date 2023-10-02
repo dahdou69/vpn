@@ -1,0 +1,71 @@
+{
+ "Version": "1.1.0",
+ "ReleaseNotes": "1.1",
+ "ReleaseNotes1": "",
+ "Servers": [
+  {
+   "Name": "test1",
+   "FLAG": "us.png",
+   "ServerIP": "",
+   "ServerPort": "",
+   "SSLPort": "",
+   "ProxyPort": "",
+   "ServerUser": "",
+   "ServerPass": "",
+   "sInfo": "",
+   "Slowchave": "",
+   "Nameserver": "",
+   "servermessage": "",
+   "Sfrep": ""
+  },
+  {
+   "Name": "test uk",
+   "FLAG": "uk.png",
+   "ServerIP": "",
+   "ServerPort": "",
+   "SSLPort": "",
+   "ProxyPort": "",
+   "ServerUser": "",
+   "ServerPass": "",
+   "sInfo": "info dahdou",
+   "Slowchave": "",
+   "Nameserver": "",
+   "servermessage": "dahou message",
+   "Sfrep": ""
+  }
+ ],
+ "Networks": [
+  {
+   "Name": "test1",
+   "Payload": "",
+   "SNI": "m.facebook.com",
+   "pInfo": "dahdou",
+   "Slowdns": "",
+   "WebProxy": "",
+   "WebPort": "",
+   "isHatok": false,
+   "isSSL": true,
+   "isPayloadSSL": false,
+   "isInject": false,
+   "isDirect": false,
+   "isSlow": false,
+   "isWeb": false
+  },
+  {
+   "Name": "inwi *6",
+   "Payload": "hhhh",
+   "SNI": "",
+   "pInfo": "",
+   "Slowdns": "",
+   "WebProxy": "",
+   "WebPort": "",
+   "isHatok": false,
+   "isSSL": false,
+   "isPayloadSSL": false,
+   "isInject": false,
+   "isDirect": true,
+   "isSlow": false,
+   "isWeb": false
+  }
+ ]
+}
